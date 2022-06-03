@@ -1,0 +1,15 @@
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\bin\Debug\net6.0\Method_Newton_Raphson.exe
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\bin\Debug\net6.0\Method_Newton_Raphson.deps.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\bin\Debug\net6.0\Method_Newton_Raphson.runtimeconfig.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\bin\Debug\net6.0\Method_Newton_Raphson.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\bin\Debug\net6.0\Method_Newton_Raphson.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\obj\Debug\net6.0\Method_Newton_Raphson.csproj.AssemblyReference.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\obj\Debug\net6.0\Method_Newton_Raphson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\obj\Debug\net6.0\Method_Newton_Raphson.AssemblyInfoInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\obj\Debug\net6.0\Method_Newton_Raphson.AssemblyInfo.cs
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\obj\Debug\net6.0\Method_Newton_Raphson.csproj.CoreCompileInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\obj\Debug\net6.0\Method_Newton_Raphson.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\obj\Debug\net6.0\refint\Method_Newton_Raphson.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\obj\Debug\net6.0\Method_Newton_Raphson.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\obj\Debug\net6.0\Method_Newton_Raphson.genruntimeconfig.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton_Raphson\Method_Newton_Raphson\obj\Debug\net6.0\ref\Method_Newton_Raphson.dll

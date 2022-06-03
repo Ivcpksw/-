@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Method_Fletcher_Reeves/1.0.0": {
+        "runtime": {
+          "Method_Fletcher_Reeves.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Method_Fletcher_Reeves/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

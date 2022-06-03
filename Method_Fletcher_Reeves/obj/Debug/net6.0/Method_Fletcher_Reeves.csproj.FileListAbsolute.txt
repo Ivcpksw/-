@@ -1,0 +1,15 @@
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\bin\Debug\net6.0\Method_Fletcher_Reeves.exe
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\bin\Debug\net6.0\Method_Fletcher_Reeves.deps.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\bin\Debug\net6.0\Method_Fletcher_Reeves.runtimeconfig.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\bin\Debug\net6.0\Method_Fletcher_Reeves.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\bin\Debug\net6.0\Method_Fletcher_Reeves.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\obj\Debug\net6.0\Method_Fletcher_Reeves.csproj.AssemblyReference.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\obj\Debug\net6.0\Method_Fletcher_Reeves.GeneratedMSBuildEditorConfig.editorconfig
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\obj\Debug\net6.0\Method_Fletcher_Reeves.AssemblyInfoInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\obj\Debug\net6.0\Method_Fletcher_Reeves.AssemblyInfo.cs
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\obj\Debug\net6.0\Method_Fletcher_Reeves.csproj.CoreCompileInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\obj\Debug\net6.0\Method_Fletcher_Reeves.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\obj\Debug\net6.0\refint\Method_Fletcher_Reeves.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\obj\Debug\net6.0\Method_Fletcher_Reeves.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\obj\Debug\net6.0\Method_Fletcher_Reeves.genruntimeconfig.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fletcher_Reeves\Method_Fletcher_Reeves\obj\Debug\net6.0\ref\Method_Fletcher_Reeves.dll

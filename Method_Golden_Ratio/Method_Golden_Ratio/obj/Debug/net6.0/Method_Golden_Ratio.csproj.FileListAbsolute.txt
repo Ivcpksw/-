@@ -1,0 +1,15 @@
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\obj\Debug\net6.0\Method_Golden_Ratio.csproj.AssemblyReference.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\obj\Debug\net6.0\Method_Golden_Ratio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\obj\Debug\net6.0\Method_Golden_Ratio.AssemblyInfoInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\obj\Debug\net6.0\Method_Golden_Ratio.AssemblyInfo.cs
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\obj\Debug\net6.0\Method_Golden_Ratio.csproj.CoreCompileInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\bin\Debug\net6.0\Method_Golden_Ratio.exe
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\bin\Debug\net6.0\Method_Golden_Ratio.deps.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\bin\Debug\net6.0\Method_Golden_Ratio.runtimeconfig.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\bin\Debug\net6.0\Method_Golden_Ratio.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\bin\Debug\net6.0\Method_Golden_Ratio.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\obj\Debug\net6.0\Method_Golden_Ratio.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\obj\Debug\net6.0\ref\Method_Golden_Ratio.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\obj\Debug\net6.0\Method_Golden_Ratio.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\obj\Debug\net6.0\Method_Golden_Ratio.genruntimeconfig.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Golden_Ratio\Method_Golden_Ratio\Method_Golden_Ratio\obj\Debug\net6.0\refint\Method_Golden_Ratio.dll

@@ -1,0 +1,15 @@
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\bin\Debug\net6.0\Method_Gradient_Descent.exe
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\bin\Debug\net6.0\Method_Gradient_Descent.deps.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\bin\Debug\net6.0\Method_Gradient_Descent.runtimeconfig.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\bin\Debug\net6.0\Method_Gradient_Descent.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\bin\Debug\net6.0\Method_Gradient_Descent.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\obj\Debug\net6.0\Method_Gradient_Descent.csproj.AssemblyReference.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\obj\Debug\net6.0\Method_Gradient_Descent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\obj\Debug\net6.0\Method_Gradient_Descent.AssemblyInfoInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\obj\Debug\net6.0\Method_Gradient_Descent.AssemblyInfo.cs
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\obj\Debug\net6.0\Method_Gradient_Descent.csproj.CoreCompileInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\obj\Debug\net6.0\Method_Gradient_Descent.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\obj\Debug\net6.0\refint\Method_Gradient_Descent.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\obj\Debug\net6.0\Method_Gradient_Descent.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\obj\Debug\net6.0\Method_Gradient_Descent.genruntimeconfig.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Gradient_Descent\Method_Gradient_Descent\obj\Debug\net6.0\ref\Method_Gradient_Descent.dll

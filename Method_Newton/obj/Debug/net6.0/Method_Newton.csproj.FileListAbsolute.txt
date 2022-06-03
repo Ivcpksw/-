@@ -1,0 +1,15 @@
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\bin\Debug\net6.0\Method_Newton.exe
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\bin\Debug\net6.0\Method_Newton.deps.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\bin\Debug\net6.0\Method_Newton.runtimeconfig.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\bin\Debug\net6.0\Method_Newton.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\bin\Debug\net6.0\Method_Newton.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\obj\Debug\net6.0\Method_Newton.csproj.AssemblyReference.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\obj\Debug\net6.0\Method_Newton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\obj\Debug\net6.0\Method_Newton.AssemblyInfoInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\obj\Debug\net6.0\Method_Newton.AssemblyInfo.cs
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\obj\Debug\net6.0\Method_Newton.csproj.CoreCompileInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\obj\Debug\net6.0\Method_Newton.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\obj\Debug\net6.0\refint\Method_Newton.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\obj\Debug\net6.0\Method_Newton.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\obj\Debug\net6.0\Method_Newton.genruntimeconfig.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Newton\Method_Newton\obj\Debug\net6.0\ref\Method_Newton.dll

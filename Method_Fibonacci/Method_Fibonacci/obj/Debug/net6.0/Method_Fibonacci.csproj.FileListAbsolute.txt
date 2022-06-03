@@ -1,0 +1,15 @@
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\obj\Debug\net6.0\Method_Fibonacci.csproj.AssemblyReference.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\obj\Debug\net6.0\Method_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\obj\Debug\net6.0\Method_Fibonacci.AssemblyInfoInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\obj\Debug\net6.0\Method_Fibonacci.AssemblyInfo.cs
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\obj\Debug\net6.0\Method_Fibonacci.csproj.CoreCompileInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\bin\Debug\net6.0\Method_Fibonacci.exe
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\bin\Debug\net6.0\Method_Fibonacci.deps.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\bin\Debug\net6.0\Method_Fibonacci.runtimeconfig.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\bin\Debug\net6.0\Method_Fibonacci.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\bin\Debug\net6.0\Method_Fibonacci.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\obj\Debug\net6.0\Method_Fibonacci.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\obj\Debug\net6.0\ref\Method_Fibonacci.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\obj\Debug\net6.0\Method_Fibonacci.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\obj\Debug\net6.0\Method_Fibonacci.genruntimeconfig.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Fibonacci\Method_Fibonacci\Method_Fibonacci\obj\Debug\net6.0\refint\Method_Fibonacci.dll

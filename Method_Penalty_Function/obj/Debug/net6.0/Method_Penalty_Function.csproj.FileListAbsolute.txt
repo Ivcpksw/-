@@ -1,0 +1,15 @@
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\bin\Debug\net6.0\Method_Penalty_Function.exe
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\bin\Debug\net6.0\Method_Penalty_Function.deps.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\bin\Debug\net6.0\Method_Penalty_Function.runtimeconfig.json
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\bin\Debug\net6.0\Method_Penalty_Function.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\bin\Debug\net6.0\Method_Penalty_Function.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\obj\Debug\net6.0\Method_Penalty_Function.csproj.AssemblyReference.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\obj\Debug\net6.0\Method_Penalty_Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\obj\Debug\net6.0\Method_Penalty_Function.AssemblyInfoInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\obj\Debug\net6.0\Method_Penalty_Function.AssemblyInfo.cs
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\obj\Debug\net6.0\Method_Penalty_Function.csproj.CoreCompileInputs.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\obj\Debug\net6.0\Method_Penalty_Function.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\obj\Debug\net6.0\refint\Method_Penalty_Function.dll
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\obj\Debug\net6.0\Method_Penalty_Function.pdb
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\obj\Debug\net6.0\Method_Penalty_Function.genruntimeconfig.cache
+D:\Руслан\Программирование\C#\Методы оптимизации (предмет)\Method_Penalty_Function\Method_Penalty_Function\obj\Debug\net6.0\ref\Method_Penalty_Function.dll
